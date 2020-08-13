@@ -46,4 +46,5 @@ When there is exception, this value will be return
 Type: `Function`
 
 error callback function
+
 ---
