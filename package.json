@@ -26,8 +26,6 @@
     "exception",
     "string"
   ],
-  "dependencies": {
-  },
-  "devDependencies": {
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
