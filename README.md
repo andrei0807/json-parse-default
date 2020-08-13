@@ -17,6 +17,7 @@ const json = '{"enable": true}';
 
 const jsonObj = jsonParse(json, null, {}, null);
 
+const jsonObj = jsonParse(json, null, {}, (e) => console.log(e));
 ```
 
 ## API
