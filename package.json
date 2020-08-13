@@ -1,0 +1,31 @@
+{
+  "name": "json-parse-default",
+  "version": "1.0.0",
+  "description": "Parse JSON with default value",
+  "license": "MIT",
+  "repository": "andrei0807/json-parse-default",
+  "funding": "https://github.com/andrei0807/json-parse-default",
+  "author": {
+    "name": "Andrei",
+    "email": "andrei0807@hotmail.com"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "index.js",
+    "vendor"
+  ],
+  "keywords": [
+    "parse",
+    "json",
+    "default",
+    "error",
+    "exception",
+    "string"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
