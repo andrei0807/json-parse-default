@@ -2,6 +2,7 @@
 
 module.exports = (string, reviver, defaultValue, onError) => {
     try {
+        if(!string) throw new Error('');
         return JSON.parse(string, reviver)
     } catch (error) {
         onError && onError(error);
