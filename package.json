@@ -1,6 +1,6 @@
 {
   "name": "json-parse-default",
-  "version": "1.0.0",
+  "version": "1.1",
   "description": "Parse JSON with default value",
   "license": "MIT",
   "repository": "andrei0807/json-parse-default",
